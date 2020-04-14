@@ -9,6 +9,6 @@
 
 [[YT] 專訪 Tron 波場鏈全球開發大賽冠軍 Fenix C. Hsu｜EP26](https://youtu.be/orBz-l2WSvg)｜[[SRT]](https://github.com/dAAAb/BBFT/blob/master/ep26%20diss%20dapp%20%E7%9A%84%E7%94%B7%E4%BA%BA%20%E3%80%90%E4%B8%8D%E6%9C%8D%E4%BE%86%E8%BE%AF%E3%80%91.mp3.mp3-%E5%AD%97%E5%B9%95.srt)｜[[BOUNTY - 0.1 ETH]](https://gitcoin.co/issue/dAAAb/BBFT/10/4163) - ✅
 
-[[YT] 專訪 創業圈金城武/連續創業家/創業界饒舌天王 陳泰谷 TK｜EP27](https://youtu.be/T5oR17WCXOk)｜[[SRT]](https://github.com/dAAAb/BBFT/blob/master/ep27%20%E5%B0%88%E6%B3%A8%E6%96%BC%E6%94%B9%E8%AE%8A%E4%B8%96%E7%95%8C%E3%80%90%E5%89%B5%E6%A5%AD%E7%95%8C%E9%87%91%E5%9F%8E%E6%AD%A6%E3%80%91.mp3-%E5%AD%97%E5%B9%95.srt)｜[[BOUNTY - 0.1 ETH]](https://gitcoin.co/issue/dAAAb/BBFT/8/4144) - Status: Open
+[[YT] 專訪 創業圈金城武/連續創業家/創業界饒舌天王 陳泰谷 TK｜EP27](https://youtu.be/T5oR17WCXOk)｜[[SRT]](https://github.com/dAAAb/BBFT/blob/master/ep27%20%E5%B0%88%E6%B3%A8%E6%96%BC%E6%94%B9%E8%AE%8A%E4%B8%96%E7%95%8C%E3%80%90%E5%89%B5%E6%A5%AD%E7%95%8C%E9%87%91%E5%9F%8E%E6%AD%A6%E3%80%91.mp3-%E5%AD%97%E5%B9%95.srt)｜[[BOUNTY - 0.1 ETH]](https://gitcoin.co/issue/dAAAb/BBFT/8/4144) - ✅
 
 [[YT] 專訪 FTX台灣區社群合夥人/啟富投顧創辦人 孫彬盛 Benson Sun｜EP28](#)｜[[SRT]](https://github.com/dAAAb/BBFT/blob/master/ep28%20%E8%82%A1%E6%B5%B7%E8%8C%AB%E8%8C%AB%EF%BC%8C%E8%B2%A1%E5%AF%8C%E6%96%B9%E8%88%9F%E8%88%AA%E5%90%91%E4%BD%95%E6%96%B9%EF%BC%9F.mp3-%E5%AD%97%E5%B9%95.srt)｜[[BOUNTY - 0.1 ETH]](https://gitcoin.co/issue/dAAAb/BBFT/13/4199) - Status: Open
